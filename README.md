@@ -20,7 +20,7 @@
 
 ## 🤳 Contact Me
 <p align="center">
-<a href=""><img src="https://img.shields.io/badge/-Ajay Nishad-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://ajaykumar-nishad.netlify.app/"><img src="https://img.shields.io/badge/-Ajay Nishad-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ajay-nishad-a1baa3200/"><img src="https://img.shields.io/badge/-Ajay%20Nishad%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ajaynishad9167@gmail.com"><img src="https://img.shields.io/badge/-Ajay Nishad-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
